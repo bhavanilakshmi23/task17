@@ -1,0 +1,1 @@
+this content written on datetime.txt on  function toLocaleString() { [native code] }
